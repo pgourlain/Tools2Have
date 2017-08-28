@@ -9,12 +9,17 @@
 - IlSpy : http://ilspy.net/
     - .Net assembly browser/decompiler
 
+# Image
+- Greenshot : http://getgreenshot.org
+	- capture et annotation d'écran
+	
+	
 # Videos
 - ShareX : https://getsharex.com
     - screen recorder / screen capture /...
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
-
+	
 # Windows administration tools
 - https://remotedesktopmanager.com/Home/Download
 

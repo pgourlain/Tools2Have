@@ -1,5 +1,5 @@
 # Introduction
- This repository enumerate a useful tools that we can use 
+ This repository give a list of useful tools that you can use (for developers and others IT people)
 
 
 # Videos

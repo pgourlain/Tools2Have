@@ -15,6 +15,8 @@
 	
 	
 # Videos
+- Captura : https://mathewsachin.github.io/Captura/
+	- screen recorder open source in C#
 - HandBrake : https://handbrake.fr/
 	- videos converter
 - ShareX : https://getsharex.com

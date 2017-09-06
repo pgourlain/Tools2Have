@@ -31,7 +31,7 @@
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
 - WinSCP : https://winscp.net/eng/docs/free_ssh_client_for_windows
- - client SSH pour Windows
+	- client SSH pour Windows
 - WinSSHTerm : https://winsshterm.blogspot.fr
 	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv 
 

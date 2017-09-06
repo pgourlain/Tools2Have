@@ -8,6 +8,8 @@
 	- des post-it partout sur le bureau avec images, liens, textes, avec envoi sur le réseau
  
 # CRYPTOGRAPHIE
+- GPG4Win : https://www.gpg4win.org
+	- signer et chiffrer en PGP depuis l'explorateur de fichier ou Outlook
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html
 	- chiffrage de disques et de partition
 - Cryptomator : https://cryptomator.org
@@ -48,10 +50,12 @@
 	- client FTP et serveur FTP
 - NMap : https://nmap.org
 	- la trousse outils réseau !
+- Syncthing : https://syncthing.net
+	- synchroniser une ou plusieurs machines en P2P crypté
 - WinSCP : https://winscp.net/eng/docs/free_ssh_client_for_windows
 	- client SSH pour Windows
 - WinSSHTerm : https://winsshterm.blogspot.fr
-	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv 
+	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
 # UTILITAIRES DE FICHIERS, DISQUES
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR
@@ -72,11 +76,23 @@
 	- permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
-	
+
+# VIRTUALISATION
+- Applications Bitnami : https://bitnami.com/stacks
+	- Serveurs d'applications virtualisées 
+- PHPVirtualBox : https://sourceforge.net/projects/phpvirtualbox
+	- Client web pour pilotage de VirtualBox par le réseau
+- Virtualbox : https://www.virtualbox.org
+	- machines virtuelles avec accélération matérielle
+- VBoxVmService : https://sourceforge.net/projects/vboxvmservice
+	- Transforme VirtualBox en service Windows
+
 # WINDOWS ADMINISTRATION TOOLS
+- NSSM : https://nssm.cc
+	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager
 	- https://remotedesktopmanager.com/Home/Download
 
-	
+
 
 

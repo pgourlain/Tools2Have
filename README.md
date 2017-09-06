@@ -1,6 +1,12 @@
 # Introduction
  This repository give a list of useful tools that you can use (for developers and others IT people)
 
+# BUREAUTIQUE
+- Notepad++ : https://notepad-plus-plus.org/fr/
+	- éditeur de texte multiformat
+- Stickies : http://www.zhornsoftware.co.uk/stickies/
+	- des post-it partout sur le bureau avec images, liens, textes, avec envoi sur le réseau
+ 
 # CRYPTOGRAPHIE
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html
 	- chiffrage de disques et de partition
@@ -24,12 +30,22 @@
 	- capture et annotation d'écran
 - Paint.net : https://www.getpaint.net/index.html
 	- retouche d'images
+
+# INTERNET
+- uBlock Origin : https://github.com/gorhill/uBlock  et   https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+	- nettoyer les pages web visionnées et protéger sa vie privée sur le net. Remplace Ghostery et Adblock, en plus performant (CPU, détection...)
+- Vivaldi : https://vivaldi.com
+	- le navigateur digne descendant d'Opéra : innvotion, performance et confidentialité ! Il est d'ailleurs fait par les anciens d'Opéra
+- Wire : https://wire.com
+	- le digne descendant de Skype, avec le retour au respect de la vie privée, fait par les anciens de Skype !
 	
 # RÉSEAU	
 - CyberDuck : https://cyberduck.io
 	- lcient FTP, webdav
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
+- NMap : https://nmap.org
+	- la trousse outils réseau !
 - WinSCP : https://winscp.net/eng/docs/free_ssh_client_for_windows
 	- client SSH pour Windows
 - WinSSHTerm : https://winsshterm.blogspot.fr
@@ -50,6 +66,8 @@
 	- logiciel de montage vidéo non linéaire
 - ShareX : https://getsharex.com
     - screen recorder / screen capture /...
+- Youtube-dl : https://rg3.github.io/youtube-dl/
+	- permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
 	

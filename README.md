@@ -41,7 +41,7 @@
 	
 # RÉSEAU	
 - CyberDuck : https://cyberduck.io
-	- lcient FTP, webdav
+	- client FTP, webdav
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
 - NMap : https://nmap.org

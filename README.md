@@ -88,6 +88,8 @@
 	- Transforme VirtualBox en service Windows
 
 # WINDOWS ADMINISTRATION TOOLS
+- Micro : https://micro-editor.github.io
+	- éditeur de texte en mode console, comme vi, nano...
 - NSSM : https://nssm.cc
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager

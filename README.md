@@ -2,6 +2,8 @@
  This repository give a list of useful tools that you can use (for developers and others IT people)
 
 # BUREAUTIQUE
+- Foxit Reader : https://www.foxitsoftware.com/pdf-reader/
+	- lecteur PDF léger et rapide
 - Notepad++ : https://notepad-plus-plus.org/fr/
 	- éditeur de texte multiformat
 - Stickies : http://www.zhornsoftware.co.uk/stickies/

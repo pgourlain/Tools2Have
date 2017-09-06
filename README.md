@@ -22,6 +22,8 @@
 	- interface graphique pour Git
 - IlSpy : http://ilspy.net/
     - .Net assembly browser/decompiler
+- Visual Studio Code : https://code.visualstudio.com
+	- Editeur de code opensource
 
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm

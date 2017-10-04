@@ -28,6 +28,8 @@
     - .Net assembly browser/decompiler
 - Visual Studio Code : https://code.visualstudio.com
 	- Editeur de code opensource
+- x64dbg : https://x64dbg.com
+	- Débogueur open source
 
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm

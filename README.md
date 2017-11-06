@@ -30,6 +30,8 @@
 	- Editeur de code opensource
 - x64dbg : https://x64dbg.com
 	- Débogueur open source
+- dnSpy : https://github.com/0xd4d/dnSpy
+   - .NET debugger and assembly editor
 
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm

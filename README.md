@@ -62,6 +62,10 @@
 	- client SSH pour Windows
 - WinSSHTerm : https://winsshterm.blogspot.fr
 	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
+- HFS : http://rejetto.com/hfs/
+	- You can use HFS (HTTP File Server) to send and receive files.
+- Stunnel : https://www.stunnel.org/index.html
+	- Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code
 
 # UTILITAIRES DE FICHIERS, DISQUES
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR

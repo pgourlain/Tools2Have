@@ -4,6 +4,8 @@
 # BUREAUTIQUE
 - Foxit Reader : https://www.foxitsoftware.com/pdf-reader/
 	- lecteur PDF léger et rapide
+- Micro : https://micro-editor.github.io
+	- éditeur de texte en mode console, comme vi, nano...
 - Notepad++ : https://notepad-plus-plus.org/fr/
 	- éditeur de texte multiformat
 - Stickies : http://www.zhornsoftware.co.uk/stickies/
@@ -12,6 +14,8 @@
 # CRYPTOGRAPHIE
 - GPG4Win : https://www.gpg4win.org
 	- signer et chiffrer en PGP depuis l'explorateur de fichier ou Outlook
+- Win32_OpenSSH : https://github.com/PowerShell/Win32-OpenSSH
+	- Portage sur Windows de OpenSSH
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html
 	- chiffrage de disques et de partition
 - Cryptomator : https://cryptomator.org
@@ -44,6 +48,8 @@
 # INTERNET
 - uBlock Origin : https://github.com/gorhill/uBlock  et   https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 	- nettoyer les pages web visionnées et protéger sa vie privée sur le net. Remplace Ghostery et Adblock, en plus performant (CPU, détection...)
+- PhantomJS : http://phantomjs.org
+	- PhantomJS is a headless WebKit scriptable with a JavaScript API
 - Vivaldi : https://vivaldi.com
 	- le navigateur digne descendant d'Opéra : innvotion, performance et confidentialité ! Il est d'ailleurs fait par les anciens d'Opéra
 - Wire : https://wire.com
@@ -76,6 +82,8 @@
 # VIDEOS
 - Captura : https://mathewsachin.github.io/Captura/
 	- screen recorder open source in C#
+- DaVinci Resolve : https://www.blackmagicdesign.com/fr/products/davinciresolve/
+	- Etalonnage et montage vidéo non linéaire
 - HandBrake : https://handbrake.fr/
 	- videos converter
 - OpenShot : http://openshot.org
@@ -98,8 +106,8 @@
 	- Transforme VirtualBox en service Windows
 
 # WINDOWS ADMINISTRATION TOOLS
-- Micro : https://micro-editor.github.io
-	- éditeur de texte en mode console, comme vi, nano...
+- Dism++ : https://www.chuyu.me/en/index.html
+	- The world's first DISM GUI implementation based on CBS!
 - NSSM : https://nssm.cc
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager

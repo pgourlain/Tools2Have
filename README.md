@@ -28,6 +28,8 @@
     - enable diagram drawing in .md files
 - GitExtensions : https://gitextensions.github.io
 	- interface graphique pour Git
+- Gogs : https://gogs.io
+	- A painless self-hosted Git service
 - IlSpy : http://ilspy.net/
     - .Net assembly browser/decompiler
 - Visual Studio Code : https://code.visualstudio.com

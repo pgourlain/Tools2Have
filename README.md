@@ -58,6 +58,8 @@
 # RÉSEAU	
 - CyberDuck : https://cyberduck.io
 	- client FTP, webdav
+- dnscrypt-proxy : https://github.com/jedisct1/dnscrypt-proxy
+	- A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
 - NMap : https://nmap.org
@@ -70,6 +72,8 @@
 	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 - HFS : http://rejetto.com/hfs/
 	- You can use HFS (HTTP File Server) to send and receive files.
+- SimpleDnsCrypt : https://github.com/bitbeans/SimpleDnsCrypt
+	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on windows based systems
 - Stunnel : https://www.stunnel.org/index.html
 	- Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code
 
@@ -108,7 +112,7 @@
 # WINDOWS ADMINISTRATION TOOLS
 - Dism++ : https://www.chuyu.me/en/index.html
 	- The world's first DISM GUI implementation based on CBS!
-	- it's a CCleaner like
+	- it's a CCleaner like (euh no, not really...^^)
 - NSSM : https://nssm.cc
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager

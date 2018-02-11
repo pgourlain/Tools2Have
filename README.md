@@ -54,6 +54,8 @@
 	- PhantomJS is a headless WebKit scriptable with a JavaScript API
 - Vivaldi : https://vivaldi.com
 	- le navigateur digne descendant d'Opéra : innvotion, performance et confidentialité ! Il est d'ailleurs fait par les anciens d'Opéra
+- Windowed : http://windowed.io
+	- Browser that lets you view, upload and manage instagram accounts from your desktop
 - Wire : https://wire.com
 	- le digne descendant de Skype, avec le retour au respect de la vie privée, fait par les anciens de Skype !
 	

@@ -60,10 +60,14 @@
 	- le digne descendant de Skype, avec le retour au respect de la vie privée, fait par les anciens de Skype !
 	
 # RÉSEAU	
+- Anydesk : https://anydesk.fr
+	- Anydesk offre un service qui autorise l'accès à distance sur des systèmes, avec ou sans installation, sans configuration réseau.
 - CyberDuck : https://cyberduck.io
 	- client FTP, webdav
 - dnscrypt-proxy : https://github.com/jedisct1/dnscrypt-proxy
 	- A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2
+- DWService : https://www.dwservice.net
+	- DWService offre un service qui autorise l'accès à distance sur des systèmes en utilisant un navigateur web standard, avec ou sans installation, sans configuration réseau.
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
 - NMap : https://nmap.org

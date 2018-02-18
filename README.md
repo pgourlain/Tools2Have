@@ -10,6 +10,8 @@
 	- éditeur de texte multiformat
 - Stickies : http://www.zhornsoftware.co.uk/stickies/
 	- des post-it partout sur le bureau avec images, liens, textes, avec envoi sur le réseau
+- wiki.js : https://wiki.js.org
+	- An open source, modern and powerful wiki app built on Node.js, Git and Markdown
  
 # CRYPTOGRAPHIE
 - GPG4Win : https://www.gpg4win.org

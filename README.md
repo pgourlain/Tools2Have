@@ -66,6 +66,7 @@
 	- Anydesk offre un service qui autorise l'accès à distance sur des systèmes, avec ou sans installation, sans configuration réseau.
 - Caddy : https://github.com/mholt/caddy
 	- Caddy is a production-ready open-source web server that is fast, easy to use, and makes you more productive.
+	- pour personnaliser avec des plugins : https://caddyserver.com/download
 - CyberDuck : https://cyberduck.io
 	- client FTP, webdav
 - dnscrypt-proxy : https://github.com/jedisct1/dnscrypt-proxy

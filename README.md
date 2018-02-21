@@ -64,6 +64,8 @@
 # RÉSEAU	
 - Anydesk : https://anydesk.fr
 	- Anydesk offre un service qui autorise l'accès à distance sur des systèmes, avec ou sans installation, sans configuration réseau.
+- Caddy : https://github.com/mholt/caddy
+	- Caddy is a production-ready open-source web server that is fast, easy to use, and makes you more productive.
 - CyberDuck : https://cyberduck.io
 	- client FTP, webdav
 - dnscrypt-proxy : https://github.com/jedisct1/dnscrypt-proxy
@@ -86,7 +88,9 @@
 	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on windows based systems
 - Stunnel : https://www.stunnel.org/index.html
 	- Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code
-
+- Traefik : https://traefik.io
+	- Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+	
 # UTILITAIRES DE FICHIERS, DISQUES
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR
 	- récupération de fichiers et de partitions

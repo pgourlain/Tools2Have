@@ -26,8 +26,6 @@
 # DEVELOPPEMENT
 - Cmder  : http://cmder.net
 	- Basé sur ConEmu. Think about cmder more as a software package than a separate app. All the magic is happening through Conemu. With enhancements from Clink.
-- ConEmu : https://conemu.github.io/
-    - Windows console emulator with tabs   
 - Diagram in .md file with VSCode : https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
     - enable diagram drawing in .md files
 - GitExtensions : https://gitextensions.github.io
@@ -129,8 +127,6 @@
 # WINDOWS ADMINISTRATION TOOLS
 - Dism++ : https://www.chuyu.me/en/index.html
 	- The world's first DISM GUI implementation based on CBS!
-- GOW : https://github.com/bmatzelle/gow/wiki
-	- Gow (Gnu On Windows) is the lightweight alternative to Cygwin
 - NSSM : https://nssm.cc
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager

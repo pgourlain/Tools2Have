@@ -30,8 +30,10 @@
     - enable diagram drawing in .md files
 - GitExtensions : https://gitextensions.github.io
 	- interface graphique pour Git
+- Gitea : https://gitea.io
+	- fork de Gogs, plus actif, a painless self-hosted Git service, on Windows, Linux, MacOS, Raspberry Pi
 - Gogs : https://gogs.io
-	- A painless self-hosted Git service
+	- A painless self-hosted Git service, on Windows, Linux, MacOS, Raspberry Pi
 - IlSpy : http://ilspy.net/
     - .Net assembly browser/decompiler
 - Visual Studio Code : https://code.visualstudio.com

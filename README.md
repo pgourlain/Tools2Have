@@ -8,6 +8,8 @@
 	- éditeur de texte en mode console, comme vi, nano...
 - Notepad++ : https://notepad-plus-plus.org/fr/
 	- éditeur de texte multiformat
+- PointerStick : http://www.softwareok.com/?Freeware/PointerStick
+	- PointerStick is a portable tool that presents on the Windows Desktop a virtual pointer stick, for example for Presentations
 - Stickies : http://www.zhornsoftware.co.uk/stickies/
 	- des post-it partout sur le bureau avec images, liens, textes, avec envoi sur le réseau
 - wiki.js : https://wiki.js.org
@@ -17,7 +19,7 @@
 - GPG4Win : https://www.gpg4win.org
 	- signer et chiffrer en PGP depuis l'explorateur de fichier ou Outlook
 - Win32_OpenSSH : https://github.com/PowerShell/Win32-OpenSSH
-	- Portage sur Windows de OpenSSH
+	- Portage sur Windows de OpenSSH, par l'équipe Microsoft PowerShell
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html
 	- chiffrage de disques et de partition
 - Cryptomator : https://cryptomator.org
@@ -133,6 +135,8 @@
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager
 	- https://remotedesktopmanager.com/Home/Download
+- WSUS Offline Update : http://www.wsusoffline.net
+	- 	Permet de se créer des images avec toutes les mises à jour de Windows Update pour Windows et Office, pour un déploiement sans accès à internet. Création et déploiement automatique.
 
 
 

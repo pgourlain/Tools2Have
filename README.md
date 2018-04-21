@@ -120,6 +120,10 @@
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
 
+# PROTEGER VOTRE VIE PRIVEE
+- Dégooglisons Internet : https://degooglisons-internet.org/liste
+	- Dégooglisons Internet par Framasoft : plein d'applications web alternatives à celles "qui vous utilisent comme produit, car c'est gratuit"
+
 # VIRTUALISATION
 - Applications Bitnami : https://bitnami.com/stacks
 	- Serveurs d'applications virtualisées 

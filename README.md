@@ -56,6 +56,8 @@
 	- retouche d'images
 
 # INTERNET
+- Keybase : https://keybase.io
+	- Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography
 - uBlock Origin : https://github.com/gorhill/uBlock  et   https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 	- nettoyer les pages web visionnées et protéger sa vie privée sur le net. Remplace Ghostery et Adblock, en plus performant (CPU, détection...)
 - PhantomJS : http://phantomjs.org

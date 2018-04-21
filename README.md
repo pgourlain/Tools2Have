@@ -18,6 +18,8 @@
 # CRYPTOGRAPHIE
 - GPG4Win : https://www.gpg4win.org
 	- signer et chiffrer en PGP depuis l'explorateur de fichier ou Outlook
+- Mailvelope : https://www.mailvelope.com
+	- Mailvelope is an easy-to-use web-browser extension which brings OpenPGP encryption to webmail services such as Gmail, Yahoo and others
 - Win32_OpenSSH : https://github.com/PowerShell/Win32-OpenSSH
 	- Portage sur Windows de OpenSSH, par l'équipe Microsoft PowerShell
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html

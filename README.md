@@ -121,6 +121,8 @@
 	- permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
+- OBS Studio : https://obsproject.com/
+    - Free and open source software for video recording and live streaming.
 
 # PROTEGER VOTRE VIE PRIVEE
 - Dégooglisons Internet : https://degooglisons-internet.org/liste

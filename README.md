@@ -147,6 +147,10 @@
 	- https://remotedesktopmanager.com/Home/Download
 - WSUS Offline Update : http://www.wsusoffline.net
 	- 	Permet de se créer des images avec toutes les mises à jour de Windows Update pour Windows et Office, pour un déploiement sans accès à internet. Création et déploiement automatique.
+- Windows Network Display Monitor Software : https://www.spacedesk.net/
+	- Spacedesk expands the Windows desktop computer screen to other computers over the local area network.
+	- Windows 10 <--> Windows 10 / Mac / Ios / Android / Linux
+	- Useful when you want to use you mac display as secondary monitor
 
 
 

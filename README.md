@@ -47,6 +47,16 @@
 - dnSpy : https://github.com/0xd4d/dnSpy
    - .NET debugger and assembly editor
 
+# DOCKER
+- Portainer : https://portainer.io
+	- Manage your docker environments with ease, with GUI
+- Rancher : https://rancher.com
+	- Rancher is enterprise management for Kubernetes
+- Rancher OS : https://rancher.com/rancher-os/
+	- A simplified Linux distribution built from containers, for containers. Everything in RancherOS is a container managed by Docker. It includes only the bare minimum amount of software needed to run Docker. Everything else can be pulled dynamically through Docker.
+- Watchtower : https://github.com/v2tec/watchtower/
+	- Automatically update running Docker containers
+   
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm
 	- visionneuse, trieuse, retouche, diaporama... le couteau suisse pour les photos

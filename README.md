@@ -117,8 +117,10 @@
 	- logiciel de clonage de clé USB, de création d'image et restauration
 
 # VIDEOS
+- BigBlueButton : https://bigbluebutton.org
+	- Alternative open source à webex
 - Captura : https://mathewsachin.github.io/Captura/
-	- screen recorder open source in C#
+	- Screen recorder open source in C#
 - DaVinci Resolve : https://www.blackmagicdesign.com/fr/products/davinciresolve/
 	- Etalonnage et montage vidéo non linéaire
 - HandBrake : https://handbrake.fr/

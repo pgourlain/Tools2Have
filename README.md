@@ -4,6 +4,8 @@
 # BUREAUTIQUE
 - Foxit Reader : https://www.foxitsoftware.com/pdf-reader/
 	- lecteur PDF léger et rapide
+- Mark Text : https://marktext.github.io/website/
+	- Mark Text is a Markdown editor for Mac, Windows, and Linux
 - Micro : https://micro-editor.github.io
 	- éditeur de texte en mode console, comme vi, nano...
 - Notepad++ : https://notepad-plus-plus.org/fr/

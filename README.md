@@ -107,6 +107,8 @@
 	- la trousse outils réseau !
 - SimpleDnsCrypt : https://github.com/bitbeans/SimpleDnsCrypt
 	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on windows based systems
+- sslh : https://github.com/yrutschle/sslh
+	- Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - Stunnel : https://www.stunnel.org/index.html
 	- Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code
 - Syncthing : https://syncthing.net

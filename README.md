@@ -18,16 +18,18 @@
 	- An open source, modern and powerful wiki app built on Node.js, Git and Markdown
  
 # CRYPTOGRAPHIE
+- Cryptomator : https://cryptomator.org
+	- chiffrage de fichiers à la volée, parfait pour les sotckages cloud
 - GPG4Win : https://www.gpg4win.org
 	- signer et chiffrer en PGP depuis l'explorateur de fichier ou Outlook
 - Mailvelope : https://www.mailvelope.com
 	- Mailvelope is an easy-to-use web-browser extension which brings OpenPGP encryption to webmail services such as Gmail, Yahoo and others
-- Win32_OpenSSH : https://github.com/PowerShell/Win32-OpenSSH
-	- Portage sur Windows de OpenSSH, par l'équipe Microsoft PowerShell
 - VeraCrypt : https://www.veracrypt.fr/en/Home.html
 	- chiffrage de disques et de partition
-- Cryptomator : https://cryptomator.org
-	- chiffrage de fichiers à la volée, parfait pour les sotckages cloud
+- Win32_OpenSSH : https://github.com/PowerShell/Win32-OpenSSH
+	- Portage sur Windows de OpenSSH, par l'équipe Microsoft PowerShell
+- WireGuard : https://www.wireguard.com
+	- Un nouveau tunnel VPN sécurisé, moderne, rapide, plus simple et performant que IPSec, et plus performant que OpenVPN
  
 # DEVELOPPEMENT
 - Cmder  : http://cmder.net
@@ -68,12 +70,16 @@
 	- retouche d'images
 
 # INTERNET
+- Duplicati : https://www.duplicati.com
+	- Free backup software to store encrypted backups online
 - Keybase : https://keybase.io
 	- Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography
-- uBlock Origin : https://github.com/gorhill/uBlock  et   https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-	- nettoyer les pages web visionnées et protéger sa vie privée sur le net. Remplace Ghostery et Adblock, en plus performant (CPU, détection...)
 - PhantomJS : http://phantomjs.org
 	- PhantomJS is a headless WebKit scriptable with a JavaScript API
+- ProjectSend : https://www.projectsend.org
+	- ProjectSend is a free, secure and user friendly file sharing software
+- uBlock Origin : https://github.com/gorhill/uBlock  et   https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+	- nettoyer les pages web visionnées et protéger sa vie privée sur le net. Remplace Ghostery et Adblock, en plus performant (CPU, détection...)
 - Vivaldi : https://vivaldi.com
 	- le navigateur digne descendant d'Opéra : innvotion, performance et confidentialité ! Il est d'ailleurs fait par les anciens d'Opéra
 - Windowed : http://windowed.io

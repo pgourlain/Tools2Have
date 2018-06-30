@@ -36,6 +36,8 @@
 	- Basé sur ConEmu. Think about cmder more as a software package than a separate app. All the magic is happening through Conemu. With enhancements from Clink.
 - Diagram in .md file with VSCode : https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
     - enable diagram drawing in .md files
+- dnSpy : https://github.com/0xd4d/dnSpy
+   - .NET debugger and assembly editor
 - GitExtensions : https://gitextensions.github.io
 	- interface graphique pour Git
 - Gitea : https://gitea.io
@@ -48,8 +50,6 @@
 	- Editeur de code opensource
 - x64dbg : https://x64dbg.com
 	- Débogueur open source
-- dnSpy : https://github.com/0xd4d/dnSpy
-   - .NET debugger and assembly editor
 
 # DOCKER
 - Portainer : https://portainer.io
@@ -101,22 +101,22 @@
 	- DWService offre un service qui autorise l'accès à distance sur des systèmes en utilisant un navigateur web standard, avec ou sans installation, sans configuration réseau.
 - Filezilla : https://filezilla-project.org
 	- client FTP et serveur FTP
-- NMap : https://nmap.org
-	- la trousse outils réseau !
-- Syncthing : https://syncthing.net
-	- synchroniser une ou plusieurs machines en P2P crypté
-- WinSCP : https://winscp.net/eng/docs/free_ssh_client_for_windows
-	- client SSH pour Windows
-- WinSSHTerm : https://winsshterm.blogspot.fr
-	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 - HFS : http://rejetto.com/hfs/
 	- You can use HFS (HTTP File Server) to send and receive files.
+- NMap : https://nmap.org
+	- la trousse outils réseau !
 - SimpleDnsCrypt : https://github.com/bitbeans/SimpleDnsCrypt
 	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on windows based systems
 - Stunnel : https://www.stunnel.org/index.html
 	- Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code
+- Syncthing : https://syncthing.net
+	- synchroniser une ou plusieurs machines en P2P crypté
 - Traefik : https://traefik.io
 	- Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+- WinSCP : https://winscp.net/eng/docs/free_ssh_client_for_windows
+	- client SSH pour Windows
+- WinSSHTerm : https://winsshterm.blogspot.fr
+	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 	
 # UTILITAIRES DE FICHIERS, DISQUES
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR
@@ -133,6 +133,8 @@
 	- Etalonnage et montage vidéo non linéaire
 - HandBrake : https://handbrake.fr/
 	- videos converter
+- OBS Studio : https://obsproject.com/
+    - Free and open source software for video recording and live streaming.
 - OpenShot : http://openshot.org
 	- logiciel de montage vidéo non linéaire
 - ShareX : https://getsharex.com
@@ -141,8 +143,6 @@
 	- permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
-- OBS Studio : https://obsproject.com/
-    - Free and open source software for video recording and live streaming.
 
 # PROTEGER VOTRE VIE PRIVEE
 - Dégooglisons Internet : https://degooglisons-internet.org/liste
@@ -153,10 +153,10 @@
 	- Serveurs d'applications virtualisées 
 - PHPVirtualBox : https://sourceforge.net/projects/phpvirtualbox
 	- Client web pour pilotage de VirtualBox par le réseau
-- Virtualbox : https://www.virtualbox.org
-	- machines virtuelles avec accélération matérielle
 - VBoxVmService : https://sourceforge.net/projects/vboxvmservice
 	- Transforme VirtualBox en service Windows
+- Virtualbox : https://www.virtualbox.org
+	- machines virtuelles avec accélération matérielle
 
 # WINDOWS ADMINISTRATION TOOLS
 - Dism++ : https://www.chuyu.me/en/index.html
@@ -165,12 +165,12 @@
 	- transforme n'importe quelle application en service Windows
 - Remote Desktop Manager
 	- https://remotedesktopmanager.com/Home/Download
-- WSUS Offline Update : http://www.wsusoffline.net
-	- 	Permet de se créer des images avec toutes les mises à jour de Windows Update pour Windows et Office, pour un déploiement sans accès à internet. Création et déploiement automatique.
 - Windows Network Display Monitor Software : https://www.spacedesk.net/
 	- Spacedesk expands the Windows desktop computer screen to other computers over the local area network.
 	- Windows 10 <--> Windows 10 / Mac / Ios / Android / Linux
 	- Useful when you want to use you mac display as secondary monitor
+- WSUS Offline Update : http://www.wsusoffline.net
+	- 	Permet de se créer des images avec toutes les mises à jour de Windows Update pour Windows et Office, pour un déploiement sans accès à internet. Création et déploiement automatique.
 
 
 

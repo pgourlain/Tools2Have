@@ -86,6 +86,10 @@
 	- Browser that lets you view, upload and manage instagram accounts from your desktop
 - Wire : https://wire.com
 	- le digne descendant de Skype, avec le retour au respect de la vie privée, fait par les anciens de Skype !
+
+# MOBILE
+- DNSCloak : https://itunes.apple.com/us/app/dnscloak-dnscrypt-doh-client/id1330471557
+	- Cette app est basée sur dnscrypt-proxy. A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2 
 	
 # RÉSEAU	
 - Anydesk : https://anydesk.fr

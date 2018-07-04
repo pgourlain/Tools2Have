@@ -139,17 +139,21 @@
 	- Etalonnage et montage vidéo non linéaire
 - HandBrake : https://handbrake.fr/
 	- videos converter
+- Kdenlive : https://kdenlive.org
+	- Kdenlive is an acronym for KDE Non-Linear Video Editor. It is primarily aimed at the GNU/Linux platform but also works on BSD and MacOS. It is currently being ported to Windows as a GSOC project
 - OBS Studio : https://obsproject.com/
     - Free and open source software for video recording and live streaming.
 - OpenShot : http://openshot.org
 	- logiciel de montage vidéo non linéaire
 - ShareX : https://getsharex.com
     - screen recorder / screen capture /...
+- Shotcut : https://www.shotcutapp.com
+	- Shotcut is a free, open source, cross-platform video editor
 - Youtube-dl : https://rg3.github.io/youtube-dl/
 	- permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/
     - useful to draw on the screen while recording
-
+	
 # PROTEGER VOTRE VIE PRIVEE
 - Dégooglisons Internet : https://degooglisons-internet.org/liste
 	- Dégooglisons Internet par Framasoft : plein d'applications web alternatives à celles "qui vous utilisent comme produit, car c'est gratuit"

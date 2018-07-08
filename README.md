@@ -70,6 +70,8 @@
 	- retouche d'images
 
 # INTERNET
+- Cookie Consent : https://cookieconsent.insites.com
+	- The most popular solution to the EU cookie law, Free and open source
 - Duplicati : https://www.duplicati.com
 	- Free backup software to store encrypted backups online
 - Keybase : https://keybase.io

@@ -1,3 +1,5 @@
+https://badgen.net/badge/license/MIT/blue
+
 # Introduction
  This repository give a list of useful tools that you can use (for developers and others IT people)
 

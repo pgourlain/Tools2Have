@@ -32,6 +32,8 @@
 	- Un nouveau tunnel VPN sécurisé, moderne, rapide, plus simple et performant que IPSec, et plus performant que OpenVPN
  
 # DEVELOPPEMENT
+- Badgen : https://badgen.net
+	- Fast badge generating service
 - Cmder  : http://cmder.net
 	- Basé sur ConEmu. Think about cmder more as a software package than a separate app. All the magic is happening through Conemu. With enhancements from Clink.
 - Diagram in .md file with VSCode : https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
@@ -46,6 +48,8 @@
 	- A painless self-hosted Git service, on Windows, Linux, MacOS, Raspberry Pi
 - IlSpy : http://ilspy.net/
     - .Net assembly browser/decompiler
+- Lazygit : https://github.com/jesseduffield/lazygit
+	- A simple terminal UI for git commands, written in Go with the gocui library
 - Visual Studio Code : https://code.visualstudio.com
 	- Editeur de code opensource
 - x64dbg : https://x64dbg.com

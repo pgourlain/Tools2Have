@@ -52,6 +52,8 @@
     - .Net assembly browser/decompiler
 - Lazygit : https://github.com/jesseduffield/lazygit
 	- A simple terminal UI for git commands, written in Go with the gocui library
+- PapaParse : https://www.papaparse.com
+	- The powerful, in-browser CSV parser for big boys and girls
 - Visual Studio Code : https://code.visualstudio.com
 	- Editeur de code opensource
 - x64dbg : https://x64dbg.com

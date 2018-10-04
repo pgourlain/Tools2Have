@@ -135,6 +135,8 @@
 	- A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 	
 # UTILITAIRES DE FICHIERS, DISQUES
+- Restic : https://github.com/restic/restic
+	- Fast, secure, efficient backup program. Git-like backup software
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR
 	- récupération de fichiers et de partitions
 - USB Image Tool : http://www.alexpage.de/usb-image-tool/

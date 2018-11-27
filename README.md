@@ -117,6 +117,8 @@
     - client FTP et serveur FTP
 - HFS : http://rejetto.com/hfs/
     - You can use HFS (HTTP File Server) to send and receive files.
+- nginxconfig.io : https://nginxconfig.io
+    - NGiИX configuration generator (https://github.com/valentinxxx/nginxconfig.io)
 - NMap : https://nmap.org
     - la trousse outils réseau !
 - SimpleDnsCrypt : https://github.com/bitbeans/SimpleDnsCrypt

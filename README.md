@@ -137,6 +137,8 @@
     - A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
 # UTILITAIRES DE FICHIERS, DISQUES
+- Path Copy Copy : https://pathcopycopy.github.io
+    - Path Copy Copy is an add-on for Windows Explorer that adds contextual menu items on all files and folders allowing the user to copy the path(s) in various formats
 - Restic : https://github.com/restic/restic
     - Fast, secure, efficient backup program. Git-like backup software
 - Testdisk : http://www.cgsecurity.org/wiki/TestDisk_FR

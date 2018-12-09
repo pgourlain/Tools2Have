@@ -42,6 +42,8 @@
     - enable diagram drawing in .md files
 - dnSpy : https://github.com/0xd4d/dnSpy
    - .NET debugger and assembly editor
+- Fork : https://git-fork.com/windows
+   - a fast and friendly git client for Mac and Windows
 - GitExtensions : https://gitextensions.github.io
     - interface graphique pour Git
 - Gitea : https://gitea.io

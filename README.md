@@ -167,6 +167,8 @@
     - screen recorder / screen capture /...
 - Shotcut : https://www.shotcutapp.com
     - Shotcut is a free, open source, cross-platform video editor
+- VidCutter : https://github.com/ozmartian/vidcutter
+    - Diviser ou assembler des vidéos sans recompression
 - Youtube-dl : https://rg3.github.io/youtube-dl/
     - permet de télécharger le contenu streaming de beaucoup beaucoup de sites
 - Zoomit : http://www.sysinternals.com/

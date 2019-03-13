@@ -139,6 +139,8 @@
     - A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
 # UTILITAIRES DE FICHIERS, DISQUES
+- Minio : https://minio.io
+    - Minio is a distributed object storage server, written in Go and open sourced under Apache License Version 2.0
 - Path Copy Copy : https://pathcopycopy.github.io
     - Path Copy Copy is an add-on for Windows Explorer that adds contextual menu items on all files and folders allowing the user to copy the path(s) in various formats
 - Restic : https://github.com/restic/restic

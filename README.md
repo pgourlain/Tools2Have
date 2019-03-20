@@ -197,6 +197,8 @@
     - The world's first DISM GUI implementation based on CBS!
 - NSSM : https://nssm.cc
     - transforme n'importe quelle application en service Windows
+- Optimize-Offline : https://github.com/DrEmpiricism/Optimize-Offline
+    - Pour se faire un ISO d'installation de Windows 10 sans les composants dont on ne veut pas
 - Remote Desktop Manager
     - https://remotedesktopmanager.com/Home/Download
 - Windows Network Display Monitor Software : https://www.spacedesk.net/

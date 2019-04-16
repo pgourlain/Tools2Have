@@ -56,8 +56,6 @@
     - A simple terminal UI for git commands, written in Go with the gocui library
 - PapaParse : https://www.papaparse.com
     - The powerful, in-browser CSV parser for big boys and girls
-- Visual Studio Code : https://code.visualstudio.com
-    - Editeur de code opensource
 - VSCodium : https://github.com/VSCodium/vscodium
     - This is not a fork. This is a repository of scripts to automatically build Microsoft's vscode repository into freely-licensed binaries with a community-driven default configuration. WITHOUT TELEMETRY and spying
 - x64dbg : https://x64dbg.com

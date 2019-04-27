@@ -74,6 +74,10 @@
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm
     - visionneuse, trieuse, retouche, diaporama... le couteau suisse pour les photos
+- Gimp : https://www.gimp.org
+    - the GNU Image Manipulation Program : GIMP is a cross-platform powerful image editor
+- G'MIC : https://gmic.eu
+    - G'MIC is a full-featured open-source framework for image processing, for GIMP, Paint.Net and command line users
 - Greenshot : http://getgreenshot.org
     - capture et annotation d'écran
 - Paint.net : https://www.getpaint.net/index.html

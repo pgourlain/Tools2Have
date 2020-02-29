@@ -82,6 +82,8 @@
     - capture et annotation d'écran
 - Paint.net : https://www.getpaint.net/index.html
     - retouche d'images
+- FreeCAD : https://www.freecadweb.org/downloads.php
+    - 3D modeler
 
 # INTERNET
 - Cookie Consent : https://cookieconsent.insites.com

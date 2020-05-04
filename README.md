@@ -213,6 +213,8 @@
     - Useful when you want to use you mac display as secondary monitor
 - WSUS Offline Update : http://www.wsusoffline.net
     - Permet de se créer des images avec toutes les mises à jour de Windows Update pour Windows et Office, pour un déploiement sans accès à internet. Création et déploiement automatique.
+- Everything : https://www.voidtools.com/
+    - outils de recherche de fichiers ou dans le contenu (plus lent)
 
 
 

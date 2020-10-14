@@ -193,6 +193,8 @@
     - Serveurs d'applications virtualisées 
 - PHPVirtualBox : https://sourceforge.net/projects/phpvirtualbox
     - Client web pour pilotage de VirtualBox par le réseau
+- Sandboxie : https://github.com/sandboxie-plus/Sandboxie
+    - Sandboxie is sandbox-based isolation software. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying the local or mapped drive. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
 - VBoxVmService : https://sourceforge.net/projects/vboxvmservice
     - Transforme VirtualBox en service Windows
 - Virtualbox : https://www.virtualbox.org

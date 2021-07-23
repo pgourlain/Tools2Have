@@ -70,6 +70,8 @@
     - A simplified Linux distribution built from containers, for containers. Everything in RancherOS is a container managed by Docker. It includes only the bare minimum amount of software needed to run Docker. Everything else can be pulled dynamically through Docker.
 - Watchtower : https://github.com/containrrr/watchtower
     - Automatically update running Docker containers
+- k8sLens : https://k8slens.dev/
+    - Kubernetes tools to manage many kubernetes clusters, very usefull when you don't know all cli-commands  
    
 # IMAGE
 - Faststone Image Viewer : http://faststone.org/FSViewerDetail.htm

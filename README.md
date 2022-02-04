@@ -60,6 +60,8 @@
     - This is not a fork. This is a repository of scripts to automatically build Microsoft's vscode repository into freely-licensed binaries with a community-driven default configuration. WITHOUT TELEMETRY and spying
 - x64dbg : https://x64dbg.com
     - Débogueur open source
+- Database design tools online : https://dbdesigner.id/ (https://github.com/didin1453fatih/dbdesigner.id)
+    - DB Designer open source
 
 # DOCKER
 - Portainer : https://portainer.io

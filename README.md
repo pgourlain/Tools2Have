@@ -18,6 +18,8 @@
     - des post-it partout sur le bureau avec images, liens, textes, avec envoi sur le réseau
 - wiki.js : https://wiki.js.org
     - An open source, modern and powerful wiki app built on Node.js, Git and Markdown
+- deskreen : https://deskreen.com et https://github.com/pavlobu/deskreen
+    - Utilisez n'importe quels tablette, téléphone, PC comme second écran ou plus 
 
 # CRYPTOGRAPHIE
 - Cryptomator : https://cryptomator.org
